@@ -16,8 +16,7 @@ timezone:
 
 title: "Anas Ben Abdessalem"
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
-
+tagline: My personal blog. # it will display as the subtitle
 
 
 description: "Hey there! I am Anas Ben Abdessalem a IT-Security Student at the Ruhr University of Bochum.
@@ -80,6 +79,7 @@ analytics:
 pageviews:
   provider: # now only supports 'goatcounter'
 
+
 # Prefer color scheme setting.
 #
 # Note: Keep empty will follow the system prefer color by default,
@@ -101,11 +101,10 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
-
+avatar: "assets/img/profile-pic.jpg"
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
-social_preview_image: # string, local or CORS resources
+social_preview_image:
 
 # boolean type, the global switch for TOC in posts.
 toc: true
@@ -227,3 +226,6 @@ jekyll-archives:
   permalinks:
     tag: /tags/:name/
     category: /categories/:name/
+
+markdown: kramdown
+highlighter: rouge
