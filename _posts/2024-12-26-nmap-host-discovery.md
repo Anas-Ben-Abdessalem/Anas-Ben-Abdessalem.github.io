@@ -1,9 +1,9 @@
 ---
 title: "Nmap room 1: Host Discovery"
 date: 26-12-2024
-categories: [Network Security,TryHackMe]
-tags: [Network Mapping, nmap]
-description: "This is the first room of the 4 room nmap series created "
+categories: [Network Security,Network Mapping,nmap]
+tags: [nmap , TryHackMe]
+description: "This is the first room of the 4 room nmap series created by tryhackme.com "
 ---
 
 ## Overview: 
