@@ -22,7 +22,7 @@ This lab contains a DOM-based cross-site scripting vulnerability in the search q
 To solve this lab, perform a cross-site scripting attack that calls the alert function. 
 Availability of the Lab:
 	the lab is made by the portswigger academy. you can access it through this link:
-	https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-document-write-sink
+	https://portswigger.net/web-security/cross-site-scripting/dom-based/lab-document-innerhtml-sink
 
 
 ## Methodology:
